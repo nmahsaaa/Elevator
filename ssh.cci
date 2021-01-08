@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:4CDD7EBC
+NODE:I LEVEL:0 LINE:24 "E:\New folder\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "E:\New folder\inc\delay.h"
+NODE:M LEVEL:0 LINE:27 "o1"
+NODE:M LEVEL:0 LINE:28 "o2"
+NODE:M LEVEL:0 LINE:29 "o3"
+NODE:V LEVEL:0 LINE:33 "cf -> R4,R5"
+NODE:V LEVEL:0 LINE:36 "cathode_seg -> RAM:????"
+NODE:F LEVEL:0 LINE:39 "seven_seg(int number)"
+NODE:F LEVEL:0 LINE:43 "door(int opcl)"
+NODE:F LEVEL:0 LINE:57 "motor(int direction,int time)"
+NODE:F LEVEL:0 LINE:127 "main(void)"
